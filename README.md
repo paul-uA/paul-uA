@@ -22,7 +22,6 @@ I'm Junior Software Engineer with full-stack development experience, but I also 
 <img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>
 <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/50/000000/linux--v2.png"/>
-<img src="https://img.icons8.com/color/50/000000/slack-new.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/50/000000/heroku.png"/>
 <img src="https://img.icons8.com/color/50/000000/github--v3.png"/>
@@ -32,6 +31,7 @@ I'm Junior Software Engineer with full-stack development experience, but I also 
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/50/000000/slack-new.png"/>
 </div>
 
 ---
