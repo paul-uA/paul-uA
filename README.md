@@ -9,7 +9,7 @@ I'm Junior Software Engineer with full-stack development experience, but I also 
 ---
 
 - 📫 How to reach me: 
-- <div>
+ <div>
 <a href="mailto: paulavila54mac@gmail.com"><img src="https://img.icons8.com/nolan/40/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/paul-avila-/"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
 </div>
