@@ -36,7 +36,7 @@ I'm Junior Software Engineer with full-stack development experience, but I also 
 
 ---
 <a href="https://github.com/paul-uA">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prireds174&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-uA&layout=compact&theme=tokyonight" alt="Top languages" />
 </a>
 
 ---
