@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Paul Avila 👋
 ---
 <h3>About me </h3>
 
