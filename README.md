@@ -1,6 +1,6 @@
-### Hi there, I'm Paul Avila 👋
+### Hi there, I'm Paul Avila. 👋
 ---
-<h3>About me </h3>
+<h3>About me: </h3>
 
 <h5>
 I'm Junior Software Engineer with full-stack development experience, but I also enjoy messing with microprocessors and other development platforms. I have recently gone through a coding boot camp and have gained new skills and am ready to apply them to real world problems and, create user-friendly webapps.
