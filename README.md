@@ -30,8 +30,7 @@ I'm Junior Software Engineer with full-stack development experience, but I also 
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/50/000000/csharp.png"/>
-<img src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo">
+
 </div>
 
 ---
@@ -51,14 +50,11 @@ I'm Junior Software Engineer with full-stack development experience, but I also 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- learning ASP.Net and ASP.Net Core for backend development.
+- refining my skill for frontend Development.
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a mecha enthusiast, I enjoy building model kits, specifically Gundam. 
 -->
 
 
